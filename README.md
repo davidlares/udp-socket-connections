@@ -1,8 +1,6 @@
 # davidRemote
 
-This is a Python script for creating deliberated `UDP` connections to a victim machine using network sockets.
-
-This script can be cataloged as a Remote execution script
+This is a Python script for creating deliberated UDP connections to a victim machine using network sockets for remote execution commands.
 
 ## Flags (arguments)
 
